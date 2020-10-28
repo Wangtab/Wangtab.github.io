@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T14:31:00.178Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="-m7Xl6G5T24DPp1Pt1kh" version="13.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-28T13:06:22.575Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="I_zKwkf_gc96X_HRlH2B" version="13.8.3" type="github" pages="4">
   <diagram id="-83lzBIK6USon--65PHx" name="Page-1">
-    <mxGraphModel dx="1626" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1626" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,7 +169,7 @@
         <mxCell id="6dZTooS0OVg-0MJ6HU8Q-49" value="&lt;font style=&quot;font-size: 14px&quot;&gt;改进后的ASPP模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="13" y="130" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6dZTooS0OVg-0MJ6HU8Q-50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;基于改进后Xception结构&lt;br&gt;的U-shape模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="6dZTooS0OVg-0MJ6HU8Q-50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;基于改进后Xception结构&lt;br&gt;的U-Net模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="13" y="340" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6dZTooS0OVg-0MJ6HU8Q-51" value="&lt;font style=&quot;font-size: 14px&quot;&gt;超像素分割&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -552,6 +552,14 @@
         <mxCell id="45f_5dQYQkeqlas3wKzR-0" value="大核&lt;br&gt;卷积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="x9sfCYTWoT6U5QPX2nHr-1">
           <mxGeometry x="-120" y="325" width="40" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_Bd_8e6S0Qd-cbj0ZoiB" name="第 4 页">
+    <mxGraphModel dx="1626" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nfIQL3ViOvyg7AgwQVTp-0" />
+        <mxCell id="nfIQL3ViOvyg7AgwQVTp-1" parent="nfIQL3ViOvyg7AgwQVTp-0" />
       </root>
     </mxGraphModel>
   </diagram>
